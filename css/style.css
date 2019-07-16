@@ -101,7 +101,9 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     font-size: 150px;
   }
-  
+  .mimi{
+    margin-top:100px !important;
+  }
   #E {
     height: calc(300vh + 200px);
     grid-row: span 4;
@@ -526,7 +528,7 @@ pre {
 }
     #margin-top-if-sm
     {
-      margin-top:800px !important;
+      margin-top:300px !important;
     }
 
     #black-if-sm
