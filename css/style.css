@@ -4726,6 +4726,8 @@ button.close {
   background-color: #000;
   border-radius: 0.25rem; }
 
+
+
 .popover {
   position: absolute;
   top: 0;
@@ -5298,6 +5300,13 @@ button.bg-dark:focus {
     display: inline-flex !important; } }
 
 @media (min-width: 768px) {
+  #margin-if-lg
+  {
+    margin-left:350px !important;
+    margin-top:250px !important;
+  }
+
+  .fii{font-size:38px !important;}
   .d-md-none {
     display: none !important; }
   .d-md-inline {
