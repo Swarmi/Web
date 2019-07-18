@@ -212,7 +212,7 @@ h6 {
 
 #intro {
   width: 100%;
-  height: 100vh;
+  height: 100vh !important;
   position: relative;
   background: #f5f8fd url("../img/portfolio/blue-colors-dress-859205.jpg") center top no-repeat;
   background-size: cover;
