@@ -258,10 +258,7 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
-  /* Drop Down */
-  /* Deep Drop Down */
-}
+
 
 .main-nav,
 .main-nav * {
@@ -325,7 +322,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #065e77;
+  color: #772606;
 }
 
 .main-nav .drop-down ul a:hover,
@@ -1081,7 +1078,7 @@ h6 {
   left: 0;
   width: 0%;
   height: 5px;
-  background-color:rgb(231, 117, 23);
+  background-color:#ff5733 !important;
   transition: 0.5s;
 }
 
@@ -1126,6 +1123,11 @@ h6 {
   color: #535074;
 }
 
+.coloriage
+{
+  color:#1bb1dc !important;
+}
+
 #pricing .card h3 .currency {
   font-size: 30px;
   position: relative;
@@ -1154,7 +1156,7 @@ h6 {
   letter-spacing: 1px;
   border-radius: 3px;
   display: inline-block;
-  background:  #98CCD3;
+  background:  #ff5733;
   color: #fff;
 }
 
@@ -1188,6 +1190,7 @@ h6 {
   line-height: 1;
   font-weight: 400;
   padding-right: 20px;
+  color: #ff5733;
 }
 
 #faq #faq-list i {
@@ -1369,6 +1372,7 @@ h6 {
 #footer .footer-top .form #errormessage.show,
 #footer .footer-top .form .show {
   display: block;
+
 }
 
 #footer .footer-top .form .validation {
