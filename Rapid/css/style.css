@@ -9,6 +9,7 @@
 # General
 --------------------------------------------------------------*/
 
+
 body {
   background: #fff;
   color: #444;
@@ -1060,6 +1061,20 @@ h6 {
 
 #pricing {
   padding: 80px 0;
+
+}
+
+.card
+{
+  min-height:600px !important;
+}
+.list5
+{
+  min-height:437px !important;
+}
+.list6
+{
+  min-height:511px !important;
 }
 
 #pricing .card {
